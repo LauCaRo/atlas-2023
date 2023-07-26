@@ -1,0 +1,63 @@
+{
+	"id": 3029,
+	"name": "Carpincho secuestrado / Seized Capybara",
+	"description": "A carpincho/capybara drawn by r/PlaceArg at the same time at the flag of the same country. When the UK subreddit and the streamer attacked the flag, the carpincho/capybara was left in his custody, but no matter the affiliation, he still wears his Argentinean cap. Is the brother of the carpincho piola/cool capybara.",
+	"links": {
+		"subreddit": [
+			"PlaceArg"
+		],
+		"discord": [
+			"PlaceArg"
+		]
+	},
+	"path": {
+		"254-258": [
+			[
+				556,
+				-706
+			],
+			[
+				559,
+				-681
+			],
+			[
+				574,
+				-679
+			],
+			[
+				591,
+				-684
+			],
+			[
+				594,
+				-715
+			],
+			[
+				585,
+				-719
+			],
+			[
+				576,
+				-718
+			],
+			[
+				574,
+				-711
+			],
+			[
+				573,
+				-717
+			],
+			[
+				567,
+				-711
+			]
+		]
+	},
+	"center": {
+		"254-258": [
+			575,
+			-696
+		]
+	}
+}
